@@ -1,0 +1,16 @@
+{
+    "title": "Working Files",
+    "name": "working-files",
+    "description": "Reposition working files panel in Brackets",
+    "version": "0.0.1",
+    "keywords": ["working files"],
+    "author": "Miguel Castillo <manchagnu@gmail.com>",
+    "homepage": "https://github.com/MiguelCastillo/Brackets-WorkingFiles",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/MiguelCastillo/Brackets-WorkingFiles.git"
+    },
+    "engines": {
+        "brackets": ">=0.38.0"
+    }
+}
